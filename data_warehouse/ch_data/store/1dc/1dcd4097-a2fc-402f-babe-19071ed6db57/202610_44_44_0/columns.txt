@@ -1,0 +1,8 @@
+columns format version: 1
+6 columns:
+`hostname` LowCardinality(String)
+`event_date` Date
+`event_time` DateTime
+`metric` LowCardinality(String)
+`key` LowCardinality(String)
+`value` Float64

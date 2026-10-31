@@ -1,0 +1,20 @@
+columns substreams version: 1
+6 columns:
+3 substreams for column `hostname`:
+	hostname.dict_prefix
+	hostname.dict
+	hostname
+1 substreams for column `event_date`:
+	event_date
+1 substreams for column `event_time`:
+	event_time
+3 substreams for column `metric`:
+	metric.dict_prefix
+	metric.dict
+	metric
+3 substreams for column `key`:
+	key.dict_prefix
+	key.dict
+	key
+1 substreams for column `value`:
+	value
